@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KsuPortfolio/static/css/main.b77dcf38.css",
+    "main.js": "/KsuPortfolio/static/js/main.553aa710.js",
+    "static/js/787.117b6665.chunk.js": "/KsuPortfolio/static/js/787.117b6665.chunk.js",
+    "static/media/proj3.png": "/KsuPortfolio/static/media/proj3.debd80e887243d5e5181.png",
+    "static/media/proj4.png": "/KsuPortfolio/static/media/proj4.97d96c5b11b9692c6575.png",
+    "static/media/proj1.png": "/KsuPortfolio/static/media/proj1.a2c1c028ef6920b68cdb.png",
+    "static/media/proj6.png": "/KsuPortfolio/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/proj2.png": "/KsuPortfolio/static/media/proj2.99ca73614081cd855577.png",
+    "static/media/proj5.jpg": "/KsuPortfolio/static/media/proj5.0648813998893b8c53d0.jpg",
+    "index.html": "/KsuPortfolio/index.html",
+    "main.b77dcf38.css.map": "/KsuPortfolio/static/css/main.b77dcf38.css.map",
+    "main.553aa710.js.map": "/KsuPortfolio/static/js/main.553aa710.js.map",
+    "787.117b6665.chunk.js.map": "/KsuPortfolio/static/js/787.117b6665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77dcf38.css",
+    "static/js/main.553aa710.js"
+  ]
+}
